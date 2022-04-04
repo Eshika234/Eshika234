@@ -1,6 +1,3 @@
-Full stack Web Developer
+# Simple GUI Calculator using JAVA in Eclipse IDE
 
-<!---
-Eshika234/Eshika234 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Untitledlo](https://user-images.githubusercontent.com/64765400/94218743-f14c9200-fe99-11ea-9824-db9bfe48bd4d.png)
